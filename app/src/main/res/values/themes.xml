@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FWM21" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.FWM21" parent="Base.Theme.FWM21" />
+    <style name="SplashScreen" parent="Theme.FWM21">
+        <item name="android:windowBackground">@drawable/background_splashscreen</item>
+    </style>
+</resources>

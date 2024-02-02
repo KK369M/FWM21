@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "294079761913",
+    "firebase_url": "https://fwm21-18676-default-rtdb.firebaseio.com",
+    "project_id": "fwm21-18676",
+    "storage_bucket": "fwm21-18676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294079761913:android:f2df72513f2d2989c54128",
+        "android_client_info": {
+          "package_name": "com.example.fwm21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294079761913-i6uq4acu5u1q95euodnm821jojp6l6k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuGJCWwPLUGuYEOU7lY6mt7Hj8TeIjBCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294079761913-i6uq4acu5u1q95euodnm821jojp6l6k1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
